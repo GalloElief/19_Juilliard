@@ -1,0 +1,134 @@
+/* Inserta tu codigo aqui */
+nav{
+	margin-top: 5%;
+	margin-bottom: 3%;
+	
+}
+a {
+  padding: 0px 10px;
+  text-decoration: none;
+  color:#C9C9C9 ;
+  font-size: 18px;
+  font-weight: bold;
+ }
+ .danza{
+	background-image: url("../img/dance_7.jpg");
+	width: 100%;
+	height: 450px;
+	
+}
+.danza1{
+	background-color: black;
+	opacity: 0.5;
+	width: 390px;
+	height: 200px;
+	margin: 920px 500px 300px 700px;
+}
+.texto01{
+	color: white;
+	text-align: center;
+	padding: 15px;
+}
+hr{
+	border: 0; 
+	border-top: 1px solid #999;
+	
+	height:0%;
+	width: 20%;
+	margin-left: 150px;
+	padding: 20px 20px;
+}
+.fondocuadro{
+	background-image: url("../img/cubes.png");
+	height: 400px;
+	padding: 100px 70px;
+	
+}
+.imgic2{
+	width:200px;
+	height:200px;
+	margin-left:50px;
+}
+.fondo3{
+	background-image: url("../img/cubes.png");
+	width: 100%;
+	height: 350px;
+	
+}
+
+.bajar{
+	margin-top: 130px;
+	font-family:Latolight ;
+	font-size: 40px;
+}
+.fondozapatillas{
+	background-image: url("../img/shoes_!.jpg");
+	background-position: left;
+	margin-left: 300px;
+	width: 960PX;
+	height: 600px;
+
+	
+}
+.footer{
+  background-color: #04064A;
+  padding: 5px;
+ 
+  padding-bottom: 50px;
+  width: 101.5%;
+  height: 50px;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.contact{
+	color:#04064A;
+	font-size: 40px;
+	margin-top: 20px;
+}
+
+.nombre, .email{
+	display: block;
+	width: 450px;
+	font-size:14px;
+	color:black;
+	margin-left: 50px;
+	padding: 10px 10px 10px 0px;
+	margin-top:10px;
+}
+.mensaje{
+	display: block;
+	width: 450px;
+	font-size:14px;
+	margin-bottom: 39px;
+	color:black;
+	margin-left: 50px;
+	padding: 10px 10px 200px 0px;
+	margin-top:10px;
+}
+.enviar{
+	display: block;
+	color:#04064A;
+	width: 450px;
+	height: 200px;
+	font-size:14px;
+	color:black;
+	margin-left: 50px;
+	padding: 10px 10px 10px 0px;
+	margin-top:10px;
+
+}
+.lista{
+	margin: 10px 100px;
+}
+h1{
+	color:#04064A;
+	font-family: Neoteric-Bold;
+}
+.abajo{
+	margin-left: 30px;
+}
+.mover{
+	margin-left: 50px;
+}

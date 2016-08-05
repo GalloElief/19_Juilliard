@@ -1,0 +1,112 @@
+/* Inserta tu codigo aqui */
+nav{
+	margin-top: 5%;
+	margin-bottom: 3%;
+	
+}
+a {
+  padding: 0px 10px;
+  text-decoration: none;
+  color:#C9C9C9 ;
+  font-size: 18px;
+  font-weight: bold;
+ }
+ .mroja{
+ 	background-image: url("../img/blog1.jpg");
+	width:300px;
+	height:300px;
+
+ }
+ .inscribete{
+	background-color: #F3A406;
+  	width: 200px;
+ 	height: 50px;
+	color:white;
+	font-size: 20px;
+	margin-left:170px;
+	margin-top: 60px;
+
+}
+.TODO{
+	margin: 50px 80px;
+}
+.fondogris{
+	background-color: #F4F4F6;
+	height: 1300px;
+}
+.fondo2{
+	background-color: #C4C4C6;
+	width: 90%;
+}
+.fondozapatillas{
+	background-image: url("../img/shoes_!.jpg");
+	background-position: left;
+	margin-left: 300px;
+	width: 960PX;
+	height: 600px;
+
+	
+}
+.footer{
+  background-color: #04064A;
+  padding: 5px;
+ 
+  padding-bottom: 50px;
+  width: 101.5%;
+  height: 50px;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.contact{
+	color:#04064A;
+	font-size: 40px;
+	margin-top: 20px;
+}
+
+.nombre, .email{
+	display: block;
+	width: 450px;
+	font-size:14px;
+	color:black;
+	margin-left: 50px;
+	padding: 10px 10px 10px 0px;
+	margin-top:10px;
+}
+.mensaje{
+	display: block;
+	width: 450px;
+	font-size:14px;
+	margin-bottom: 39px;
+	color:black;
+	margin-left: 50px;
+	padding: 10px 10px 200px 0px;
+	margin-top:10px;
+}
+.enviar{
+	display: block;
+	color:#04064A;
+	width: 450px;
+	height: 200px;
+	font-size:14px;
+	color:black;
+	margin-left: 50px;
+	padding: 10px 10px 10px 0px;
+	margin-top:10px;
+
+}
+.lista{
+	margin: 10px 100px;
+}
+h1{
+	color:#04064A;
+	font-family: Neoteric-Bold;
+}
+.abajo{
+	margin-left: 30px;
+}
+.texto01{
+	margin-top: 30px;
+}
+
